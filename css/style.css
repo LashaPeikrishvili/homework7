@@ -1,0 +1,36 @@
+.mega-class{
+	max-width: 1920px;
+	max-height: 103px;
+}
+.header{
+	max-width: 1301px;
+	margin:35px 100px 35px 100px;
+	position: fixed;
+	left: 0;
+	top: 0;
+}
+.li{
+	font-size: 16px;
+	display: inline-block;
+}
+.li1{
+	font-size: 22px;
+	color: black;
+	padding: 0 0 0;	
+}
+.li2{
+	color: black;
+	padding: 50px 0px 0px 70px;
+}
+.li3{
+	color: black;
+	padding: 50px 0px 0px 750px;
+}
+.li4{
+	color: black;
+	padding: 50px 0px 0px 50px;
+}
+img{
+	width: 1280px;
+	padding:85px 300px 0px 80px;
+}
